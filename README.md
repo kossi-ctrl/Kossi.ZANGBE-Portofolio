@@ -1,6 +1,8 @@
   # kossi-ZANGBE
 Université de Tours-Centre d'Études Supérieures de la Renaissance
+
 Étudiant en Humanités Numériques – Informatique
+
 Création de sites web, programmation, modélisation et bases de données
 
 ---
