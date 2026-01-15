@@ -7,7 +7,7 @@ Université de Tours — Centre d’Études Supérieures de la Renaissance
 
 ---
 🌐 Mon portfolio en ligne :  
-👉 https://kossi-ctrl.github.io/kossi.ZANGBE-Portfolio/
+👉 https://kossi-ctrl.github.io/Kossi.ZANGBE-Portofolio/
 
 
 ---
