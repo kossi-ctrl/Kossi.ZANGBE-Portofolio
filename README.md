@@ -6,7 +6,11 @@ Université de Tours — Centre d’Études Supérieures de la Renaissance
 🌐 *Création de sites web, programmation, modélisation et bases de données*
 
 ---
+🌐 Mon portfolio en ligne :  
+👉 https://kossi-ctrl.github.io/kossi.ZANGBE-Portfolio/
 
+
+---
 ## 🎯 À propos de moi  
 
 Étudiant passionné par les humanités numériques et l’informatique, je travaille à la croisée :  
