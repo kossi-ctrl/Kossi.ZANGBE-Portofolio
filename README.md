@@ -29,8 +29,8 @@ Création de sites web, programmation, modélisation et bases de données
      
      -Comparaison et encodage des variantes 
      
-     
-     [Voir l’encodage Tartuffe (XML)](https://github.com/kossi-ctrl/Encodage_tartuffe.xml)
+   **Lien vers le dépôt :**  
+     https://github.com/kossi-ctrl/Encodage_tartuffe.xml
 
 
      
@@ -43,7 +43,6 @@ Création de sites web, programmation, modélisation et bases de données
         Utilisation des langages HTML et CSS pour concevoir un site web statique
         avec Phoenix Code ou Visual Studio Code.
       
-      https://github.com/kossi-ctrl/site_cuisine_project
   **Lien vers le dépôt :**  
 https://github.com/kossi-ctrl/site_cuisine_project
 
@@ -55,7 +54,8 @@ https://github.com/kossi-ctrl/site_cuisine_project
       Problématique :
       
         Ajout de fonctionnalités JavaScript au site HTML/CSS existant.
-   
+        
+   **Lien vers le dépôt :** 
       https://github.com/kossi-ctrl/TPJavaScript_site_cuisine
 
   
@@ -66,7 +66,8 @@ https://github.com/kossi-ctrl/site_cuisine_project
         Problématique :
         
         Exploitation d’un fichier JSON et intégration via JavaScript.
-    
+        
+  **Lien vers le dépôt :** 
       https://github.com/kossi-ctrl/ashesi_library_project
    
 
@@ -81,7 +82,8 @@ https://github.com/kossi-ctrl/site_cuisine_project
         -Export SQL et intégration PostgreSQL
         
         -Requêtes SQL
-      
+        
+   **Lien vers le dépôt :** 
       https://github.com/kossi-ctrl/TP_musee
        
      
@@ -92,7 +94,8 @@ https://github.com/kossi-ctrl/site_cuisine_project
       Problématique :
       
        Manipulation de fichiers JSON et génération dynamique via JavaScript.
-      
+       
+  **Lien vers le dépôt :** 
       https://github.com/kossi-ctrl/Wired_viz
    
   ---
