@@ -63,7 +63,7 @@ Encoder le texte de *Tartuffe* en TEI.
 🎯 Amélioration du site cuisine avec des fonctionnalités JavaScript.  
 
 🔗 Dépôt :  
-👉 https://github.com/kossi-ctrl/TPJavaScript_site_cuisine  
+👉 https://kossi-ctrl.github.io/TPJavaScript_site_cuisine 
 
 ---
 
