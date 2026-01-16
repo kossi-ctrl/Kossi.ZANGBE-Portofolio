@@ -67,12 +67,12 @@ Encoder le texte de *Tartuffe* en TEI.
 
 ---
 
-### 📚 Projet 4 — Ashesi Library
+### 📚 Projet 4 — Biblio_ashesi
 
 🎯 Création d’une bibliothèque fictive à partir d’un fichier JSON, manipulé en JavaScript.  
 
 🔗 Dépôt :  
-👉 https://github.com/kossi-ctrl/Bibl_ashesi 
+👉 https://github.com/kossi-ctrl/Biblio_ashesi 
 
 ---
 
